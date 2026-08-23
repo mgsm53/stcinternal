@@ -1,2 +1,0 @@
-# stcinternal
-internal website
